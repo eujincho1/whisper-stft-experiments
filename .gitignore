@@ -1,0 +1,11 @@
+﻿# 가상환경/캐시
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+.env
+
+# 대용량 또는 민감 폴더
+sbs_datasets/
+sbs_datasets_processed/
+wandb/
+*.log
